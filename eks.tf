@@ -1,7 +1,7 @@
 # Provider
  provider "aws" {
-   access_key = "AKIAQADSHUVKRNGD7UUN"
-   secret_key = "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"
+   access_key = "AKIAYPYDXJZ5YJY4F5XG"
+   secret_key = "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"
    region = "us-west-2"
  }
 resource "aws_iam_role" "eks_cluster" {
